@@ -2,7 +2,6 @@
 A tool that help you get A Special Instagram User with 12 Accounts Ready for use
 <h1 align="center">
 	<br>
-
 	 User Catcher
 </h1>
 <h2 align="center">
@@ -15,7 +14,7 @@ A tool that help you get A Special Instagram User with 12 Accounts Ready for use
 A tool that will help you catch nifty Instagram Usernames
 
 
-## Test It Out
+
 
 ### Requirements
 
@@ -28,7 +27,7 @@ A tool that will help you catch nifty Instagram Usernames
 
 > 2. Goto: *User Catcher\bin\Debug* (bin\Debug folder)
 
-> 3. Run: WindowsActivator.exe
+> 3. Run: User Catcher.exe
 
 ## Features
 12 Free Instagram Accounts Incase On of them Gets Banned The Password for all of them :Qazwsx132
@@ -39,8 +38,8 @@ A tool that will help you catch nifty Instagram Usernames
 - 
 <h1 align="center">
 	<br>
-	<img src="https://ibb.co/G3b4NkW" alt="SS1" width="753" height="560">
-  	<img src=" https://ibb.co/pLtrjGW" alt="SS1" width="753" height="560">
+	<img src="https://i.ibb.co/qFP3V9N/Screenshot-183.png" alt="SS1" width="753" height="560">
+  	<img src="https://i.ibb.co/XChkxNy/Screenshot-185.png" alt="SS1" width="753" height="560">
  
 </h1>
 
