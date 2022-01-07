@@ -82,5 +82,5 @@ Low Licensed Software : " MIT "
 
 Copyright (c) 2019 By Hassan Abdulbaqi
 
-https://github.com/Hassan-Abdulbaqi/Windows-Activator/blob/master/LICENSE
+https://github.com/Hassan-Abdulbaqi/User-Catcher/blob/master/LICENSE
 ```
